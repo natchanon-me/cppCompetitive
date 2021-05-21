@@ -17,7 +17,7 @@ using namespace std;
 
    int main()
    {
-    int ans = parking(3,1);
+    int ans = parking(8,25);
     cout << ans << endl;
     return 0;
     }
